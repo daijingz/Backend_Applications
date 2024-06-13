@@ -1,5 +1,5 @@
 # Backend Project Family
-Series of Servers, Operating systems
+Combinations of series of Servers, Operating systems
 TODO
 
 ## Part 1
