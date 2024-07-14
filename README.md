@@ -3,6 +3,7 @@ Combinations of series of Servers, Operating systems
 TODO
 
 ## Part 1
+Construct a server
 TODO
 
 ## Part 2
