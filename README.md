@@ -1,5 +1,5 @@
 # Backend Project Family (Actively Updating Now)
-Combinations of series of Servers, Operating systems
+Combinations of series of Servers, Operating systems, and Cloud Applications
 TODO
 
 ## Part 1
