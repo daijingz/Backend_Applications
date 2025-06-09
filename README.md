@@ -13,7 +13,7 @@
       <img src="icon.jpg" alt="Logo" width="80" height="80" style="background-color: white;" />
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <h3 style="margin: 0;">Algorithm & Applications Project Family</h3>
+      <h3 style="margin: 0;">Backend Project Family</h3>
     </td>
   </tr>
 </table>
