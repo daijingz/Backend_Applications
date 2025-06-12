@@ -136,8 +136,8 @@ README.md
 
 [commits-shield]: https://img.shields.io/badge/Commits-32-blue
 [commits-url]: https://github.com/daijingz/Backend_Applications/commits/main/
-[programs-shield]: https://img.shields.io/badge/Sub_Projects->80-green
-[programs-url]: https://github.com/daijingz/Algorithm_Implementations
+[programs-shield]: https://img.shields.io/badge/Sub_Projects->2-green
+[programs-url]: https://github.com/daijingz/Backend_Applications/
 [lines-shield]: https://img.shields.io/badge/Total_Lines->9300-cyan
 [lines-url]: https://github.com/daijingz/Algorithm_Implementations
 [apps-shield]: https://img.shields.io/badge/Application_Projects-4-yellow
