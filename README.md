@@ -17,8 +17,7 @@
 </table>
 
 <p align="left">
-  This project family includes popular algorithms' multi-language implementations programs and their applications on real-life software artifacts. Each algorithm group has several algorithms solving the same problem, and here, each algorithm has one program executing independently. Those similar algorithms are placed in the same module. Unit testing covers all implementations to ensure their execution reliability, and application projects apply these implementations in their designated places. Documentation aims to indicate main confusion places.
-</p>
+  This project family includes servers and APIs.
 
 [![Python][python-shield]][python-url]
 [![Java][java-shield]][java-url]
