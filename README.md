@@ -17,7 +17,7 @@
 </table>
 
 <p align="left">
-  This project family includes constructed servers and APIs, and other practical back-end applications.
+  This project family encompasses constructed servers and APIs, as well as other practical back-end applications.
 
 [![Python][python-shield]][python-url]
 [![Java][java-shield]][java-url]
