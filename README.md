@@ -19,22 +19,8 @@
 <p align="left">
   This project family encompasses constructed servers and APIs, as well as other practical back-end applications.
 
-[![Python][python-shield]][python-url]
-[![Java][java-shield]][java-url]
-[![C++][cpp-shield]][cpp-url]
-[![C][c-shield]][c-url]
-[![C#][csharp-shield]][csharp-url]
 [![JavaScript][js-shield]][js-url]
-[![TypeScript][ts-shield]][ts-url]
-[![Swift][swift-shield]][swift-url]
-[![Go][go-shield]][go-url]
-[![Scala][scala-shield]][scala-url]
-
-[![JSON][json-shield]][json-url]
-[![MongoDB][mdb-shield]][mdb-url]
-[![pytest][pytest-shield]][pytest-url]
-[![junit][junit-shield]][junit-url]
-[![matlab][matlab-shield]][matlab-url]
+[![Node.js][nodejs-shield]][nodejs-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -142,33 +128,7 @@ README.md
 [au-shield]: https://img.shields.io/badge/Actively_Updating-darkred
 [au-url]: https://www.linkedin.com/in/jingze-dai/
 
-[python-shield]: https://img.shields.io/badge/Python-blue
-[python-url]: https://www.python.org/
-[java-shield]: https://img.shields.io/badge/Java-orange
-[java-url]: https://www.java.com/en/
-[cpp-shield]: https://img.shields.io/badge/C++-pink
-[cpp-url]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
-[c-shield]: https://img.shields.io/badge/C-yellow
-[c-url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
-[csharp-shield]: https://img.shields.io/badge/CSharp-green
-[csharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [js-shield]: https://img.shields.io/badge/JavaScript-lightyellow
 [js-url]: https://devdocs.io/javascript/
-[ts-shield]: https://img.shields.io/badge/TypeScript-lightblue
-[ts-url]: https://devdocs.io/typescript/
-[swift-shield]: https://img.shields.io/badge/Swift-purple
-[swift-url]: https://devdocs.io/swift/
-[go-shield]: https://img.shields.io/badge/Go-brown
-[go-url]: https://devdocs.io/go/
-[scala-shield]: https://img.shields.io/badge/Scala-lightgreen
-[scala-url]: https://devdocs.io/scala/
-
-[json-shield]: https://img.shields.io/badge/JSON-grey
-[json-url]: https://www.json.org/json-en.html
-[mdb-shield]: https://img.shields.io/badge/MongoDB-darkgreen
-[mdb-url]: https://www.mongodb.com/
-[pytest-shield]: https://img.shields.io/badge/pytest-skyblue
-[pytest-url]: https://docs.pytest.org/en/stable/
-[junit-shield]: https://img.shields.io/badge/JUnit-lightorange
-[junit-url]: https://junit.org/junit5/
-[matlab-shield]: https://img.shields.io/badge/MATLAB-darkblue
+[nodejs-shield]: https://img.shields.io/badge/Node.js-darkgreen
+[nodejs-url]: https://nodejs.org/docs/latest/api/
