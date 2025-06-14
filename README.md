@@ -136,9 +136,9 @@ README.md
 [programs-shield]: https://img.shields.io/badge/Sub_Projects-2-green
 [programs-url]: https://github.com/daijingz/Backend_Applications/
 [appt-shield]: https://img.shields.io/badge/All_Programs_Verified_By_Tests-purple
-[appt-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Testing
+[appt-url]: https://github.com/daijingz/Backend_Applications
 [aacd-shield]: https://img.shields.io/badge/All_Applications_Contain_Documentations-orange
-[aacd-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Documentation
+[aacd-url]: https://github.com/daijingz/Backend_Applications
 [au-shield]: https://img.shields.io/badge/Actively_Updating-darkred
 [au-url]: https://www.linkedin.com/in/jingze-dai/
 
