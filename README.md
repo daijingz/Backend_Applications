@@ -41,7 +41,7 @@
 </h2>
 ![alt text](Structure.jpeg)
 
-This project includes 
+This project includes backend applications among these fields:
 
 - [x] Considerably reduce calculation resource costs (less time and low system utilization).
 - [x] Increase the whole system's reliability and robustness.
