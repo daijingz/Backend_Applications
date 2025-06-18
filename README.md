@@ -43,7 +43,7 @@
 
 This project includes backend applications among these fields:
 
-- [x] Considerably reduce calculation resource costs (less time and low system utilization).
+- [x] Servers,
 - [x] Increase the whole system's reliability and robustness.
 - [x] Improve program compatibility in diverse and distinct environments.
 
