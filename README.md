@@ -41,7 +41,7 @@
 </h2>
 ![alt text](Structure.jpeg)
 
-This project includes backend applications among these fields:
+This project includes backend applications in the following fields:
 
 - [x] Servers,
 - [x] Increase the whole system's reliability and robustness.
