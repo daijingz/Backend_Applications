@@ -17,7 +17,7 @@
 </table>
 
 <p align="left">
-  This project family encompasses constructed servers and APIs, as well as other practical back-end applications.
+  This project family encompasses constructed servers and APIs, as well as other practical back-end applications. Each repository represents an independent project, including a README.md file explaining its main file structures and functionalities.
 
 [![JavaScript][js-shield]][js-url]
 [![Node.js][nodejs-shield]][nodejs-url]
