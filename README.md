@@ -65,7 +65,7 @@ Here is the structure of this project series:
 
 :smiley: **Testing** (Ensuring each program has good, expected performance)
 
-There are a lot of sub-projects that have not been uploaded. Please give the author more time.
+There are many sub-projects that have not been uploaded. Please give the author more time.
 
 <p align="right">
   <a href="#top">
