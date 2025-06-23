@@ -53,20 +53,6 @@ Here is the structure of this project series:
 
 ![alt text](Architecture.jpeg)
 
-**This project family includes those parts**
-
-:open_mouth: **Algorithm implementations** (Implementations of algorithms on multiple programming languages)
-
-:smile: **Algorithm-based Application programs** (Software artifacts with algorithms' applications)
-
-:grimacing: **Documentations** (Files that explain algorithm designs, mainly **_.ipynb_** and **_.md_** files)
-
-:blush: **Mathematical proofs** (Less frequently occurring, usually for evaluating algorithms' time complexity)
-
-:smiley: **Testing** (Ensuring each program has good, expected performance)
-
-There are many sub-projects that have not been uploaded. Please give the author more time.
-
 <p align="right">
   <a href="#top">
     <img alt="Back To Top" src="https://img.shields.io/badge/Back_To_Top-black">
