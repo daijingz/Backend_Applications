@@ -45,7 +45,7 @@ This project includes backend applications in the following fields:
 
 - [x] Servers,
 - [x] Application Interfaces.
-- [x] Improve program compatibility in diverse and distinct environments.
+- [x] Software artifacts
 
 <br>
 
