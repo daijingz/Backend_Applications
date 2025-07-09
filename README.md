@@ -43,9 +43,9 @@
 
 This project includes backend applications in the following fields:
 
-- [x] Servers,
-- [x] Application Interfaces.
-- [x] Software artifacts
+- [x] Servers.
+- [x] Application interfaces (APIs).
+- [x] Dependent software artifacts
 
 <br>
 
