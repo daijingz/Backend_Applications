@@ -83,7 +83,7 @@ Personal Portfolio - [https://daijingz.github.io/Jingze_Portfolio/index.html](ht
 </h2>
 
 **{Y}**
-  - groups of algorithms separated by their solved problems Y
+  - Backend project with title Y (including all files) 
 
 README.md
   - This file
