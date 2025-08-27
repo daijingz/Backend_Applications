@@ -1,2 +1,2 @@
 # First Backend Project
-Here is Jingze's first backend project.
+Here is Jingze's first backend project - a first-stage server.
